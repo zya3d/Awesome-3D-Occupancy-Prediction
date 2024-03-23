@@ -5,16 +5,39 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 ### 2024
 
+#### CVPR 2024 (Accepted Papers)
+
+* Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[paper](https://arxiv.org/pdf/2402.07635.pdf)]
+* Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory
+* Learning Occupancy for Monocular 3D Object Detection [[paper](https://arxiv.org/pdf/2305.15694.pdf)] [[code](https://github.com/SPengLiang/OccupancyM3D)]
+* Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications [[paper](https://arxiv.org/pdf/2311.17663.pdf)] [[code](https://github.com/haomo-ai/Cam4DOcc)]
+* PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation [[paper](https://arxiv.org/pdf/2306.10013.pdf)] [[code](https://github.com/Robertwyq/PanoOcc)]
+* LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction
+* COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)]
+* SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2311.12754.pdf)] [[code](https://github.com/huang-yh/SelfOcc)]
+* StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation
+* SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction
+* SGC-Occ: Semantic-Geometry Consistent 3D Occupancy Prediction for Autonomous Driving
+* Unsupervised Occupancy Learning from Sparse Point Cloud
+* UnO: Unsupervised Occupancy Fields for Perception and Forecasting
+
 #### Arxiv
 
 * InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Predictio [[paper](https://arxiv.org/pdf/2401.12422v1.pdf)] [[code](https://github.com/DanielMing123/InverseMatrixVT3D)]
 * MonoOcc: Digging into Monocular Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2403.08766v1.pdf)] [[code](https://github.com/ucaszyp/MonoOcc)]
 * OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction [[paper](https://arxiv.org/pdf/2402.18140.pdf)]
 * UniVision: A Unified Framework for Vision-Centric 3D Perception [[paper](https://arxiv.org/pdf/2401.06994.pdf)] [[code](https://github.com/Cc-Hy/UniVision)]
+* Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception [[paper](https://arxiv.org/pdf/2403.07746.pdf)] [[code](https://github.com/phi-wol/hydra)]
+* InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2401.12422.pdf)] [[code](https://github.com/DanielMing123/InverseMatrixVT3D)]
+* Urban Scene Diffusion through Semantic Occupancy Map [[paper](https://arxiv.org/pdf/2403.11697.pdf)] [[website](https://metadriverse.github.io/urbandiff/)]
 * OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction [[paper](https://arxiv.org/html/2403.01644v1)] [[~~code~~](https://github.com/DanielMing123/OCCFusion)]
 * FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View [[paper](https://arxiv.org/pdf/2403.02710v1.pdf)]
 * Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution [[paper](https://arxiv.org/pdf/2403.08748v1.pdf)]
 * S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2401.13785.pdf)]
+* UniLiDAR: Bridge the domain gap among different LiDARs for continual learning [[paper](https://arxiv.org/pdf/2403.08512.pdf)]
+* OccFiner: Offboard Occupancy Refinement with Hybrid Propagation [[paper](https://arxiv.org/pdf/2403.08504.pdf)]
+* OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2403.05329.pdf)]
+* SDGE: Stereo Guided Depth Estimation for 360∘ Camera Sets [[paper](https://arxiv.org/pdf/2402.11791.pdf)]
 
 ### 2023
 
@@ -62,6 +85,7 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * Symphonize 3D Semantic Scene Completion with Contextual Instance Queries [[paper](https://arxiv.org/pdf/2306.15670.pdf)] [[code](https://github.com/hustvl/Symphonies)]
 * UniWorld: Autonomous Driving Pre-training via World Models [[paper](https://arxiv.org/pdf/2308.07234.pdf)] [[code](https://github.com/chaytonmin/UniWorld)]
 * SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2311.12754.pdf)] [[code](https://github.com/huang-yh/SelfOcc)]
+* LiDAR-based 4D Occupancy Completion and Forecasting [[paper](https://arxiv.org/pdf/2310.11239.pdf)] [[code](https://github.com/ai4ce/Occ4cast)]
 * BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy [[paper](https://arxiv.org/pdf/2305.16829v2.pdf)]
 * UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering [[paper](https://arxiv.org/pdf/2306.09117.pdf)]
 * COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)]
@@ -76,6 +100,9 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation [[paper](https://arxiv.org/pdf/2312.11829v1.pdf)]
 * Technical Report for Argoverse Challenges on 4D Occupancy Forecasting [[paper](https://arxiv.org/pdf/2311.15660.pdf)]
 * SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints [[paper](https://arxiv.org/pdf/2311.11371.pdf)]
+* DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/pdf/2311.17084.pdf)]
+* SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/pdf/2309.10527.pdf)]
+* Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion [[paper](https://arxiv.org/pdf/2303.13959.pdf)]
 
 ### 2022
 
