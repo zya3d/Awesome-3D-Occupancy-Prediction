@@ -61,6 +61,7 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion [[paper](https://arxiv.org/pdf/2303.13959v3.pdf)] [[code](https://github.com/Arlo0o/StereoScene)]
 * Symphonize 3D Semantic Scene Completion with Contextual Instance Queries [[paper](https://arxiv.org/pdf/2306.15670.pdf)] [[code](https://github.com/hustvl/Symphonies)]
 * UniWorld: Autonomous Driving Pre-training via World Models [[paper](https://arxiv.org/pdf/2308.07234.pdf)] [[code](https://github.com/chaytonmin/UniWorld)]
+* SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2311.12754.pdf)] [[code](https://github.com/huang-yh/SelfOcc)]
 * BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy [[paper](https://arxiv.org/pdf/2305.16829v2.pdf)]
 * UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering [[paper](https://arxiv.org/pdf/2306.09117.pdf)]
 * COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)]
