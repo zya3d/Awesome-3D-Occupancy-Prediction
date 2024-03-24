@@ -47,6 +47,7 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_VoxFormer_Sparse_Voxel_Transformer_for_Camera-Based_3D_Semantic_Scene_Completion_CVPR_2023_paper.pdf)] [[code](https://github.com/NVlabs/VoxFormer)]
 * Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Prediction_in_Self-Driving_CVPR_2023_paper.pdf)] [[website](https://waabi.ai/implicito/)]
 * Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.pdf)]
+* SCPNet: Semantic scene completion on point cloud [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_SCPNet_Semantic_Scene_Completion_on_Point_Cloud_CVPR_2023_paper.pdf)]
 
 #### ICCV 2023
 
@@ -109,12 +110,6 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 #### Arxiv
 
 * Differentiable Raycasting for Self-supervised Occupancy Forecasting [[paper](https://arxiv.org/pdf/2210.01917.pdf)]
-
-### 2019
-
-#### CVPR 2019
-
-* Occupancy Networks: Learning 3D Reconstruction in Function Space [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)]
 
 ## Survey
 
