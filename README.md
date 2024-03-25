@@ -23,7 +23,6 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 #### Arxiv
 
-* InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Predictio [[paper](https://arxiv.org/pdf/2401.12422v1.pdf)] [[code](https://github.com/DanielMing123/InverseMatrixVT3D)]
 * MonoOcc: Digging into Monocular Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2403.08766v1.pdf)] [[code](https://github.com/ucaszyp/MonoOcc)]
 * OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction [[paper](https://arxiv.org/pdf/2402.18140.pdf)]
 * UniVision: A Unified Framework for Vision-Centric 3D Perception [[paper](https://arxiv.org/pdf/2401.06994.pdf)] [[code](https://github.com/Cc-Hy/UniVision)]
@@ -64,7 +63,6 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 #### Arxiv
 
 * OVO: Open-Vocabulary Occupancy [[paper](https://arxiv.org/abs/2305.16133)] [[code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)]
-* SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving [[paper](https://arxiv.org/pdf/2306.09001.pdf)] [[code](https://github.com/ai4ce/SSCBench)]
 * FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation [[paper](https://arxiv.org/pdf/2307.01492.pdf)] [[code](https://github.com/NVlabs/FB-BEV)]
 * OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving [[paper](https://arxiv.org/pdf/2311.16038.pdf)] [[code](https://github.com/wzzheng/OccWorld)]
 * OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields [[paper](https://arxiv.org/pdf/2312.09243v1.pdf)] [[code](https://github.com/LinShan-Bin/OccNeRF)]
