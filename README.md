@@ -7,9 +7,9 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 #### CVPR 2024 (Accepted Papers)
 
-* [12 February, 2024] Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[paper](https://arxiv.org/pdf/2402.07635.pdf)]
+* [Submitted 12 February, 2024] Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[paper](https://arxiv.org/pdf/2402.07635.pdf)]
 * Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory
-* Learning Occupancy for Monocular 3D Object Detection [[paper](https://arxiv.org/pdf/2305.15694.pdf)] [[code](https://github.com/SPengLiang/OccupancyM3D)]
+* [Submitted 25 May, 2023] Learning Occupancy for Monocular 3D Object Detection [[paper](https://arxiv.org/pdf/2305.15694.pdf)] [[code](https://github.com/SPengLiang/OccupancyM3D)]
 * Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications [[paper](https://arxiv.org/pdf/2311.17663.pdf)] [[code](https://github.com/haomo-ai/Cam4DOcc)]
 * PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation [[paper](https://arxiv.org/pdf/2306.10013.pdf)] [[code](https://github.com/Robertwyq/PanoOcc)]
 * LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction
