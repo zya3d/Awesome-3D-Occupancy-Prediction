@@ -103,26 +103,24 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/pdf/2309.10527.pdf)]
 * Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion [[paper](https://arxiv.org/pdf/2303.13959.pdf)]
 
-### 2022
+### ECCV 2022
 
-#### Arxiv
-
-* Differentiable Raycasting for Self-supervised Occupancy Forecasting [[paper](https://arxiv.org/pdf/2210.01917.pdf)]
+* [Submitted 18 October, 2022] Differentiable Raycasting for Self-supervised Occupancy Forecasting [[paper](https://arxiv.org/pdf/2210.01917.pdf)]
 
 ## Survey
 
-* Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/pdf/2303.01212.pdf)]
+* [Submitted 2 March, 2023] Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/pdf/2303.01212.pdf)]
 
 ## Dataset
 
-* Semantickitti: A dataset for semantic scene understanding of lidar sequences [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.pdf)] [[website](http://www.semantic-kitti.org/)]
-* Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[dataset download](https://tsinghua-mars-lab.github.io/Occ3D/)]
-* Openoccupancy: A large scale benchmark for surrounding semantic occupancy perception [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_OpenOccupancy_A_Large_Scale_Benchmark_for_Surrounding_Semantic_Occupancy_Perception_ICCV_2023_paper.pdf)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
-* OpenScene: Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[Github](https://github.com/OpenDriveLab/OpenScene)] [[website](https://medium.com/@opendrivelab/introducing-openscene-the-largest-benchmark-for-occupancy-prediction-in-autonomous-driving-74cfc5bbe7b6)]
+* [Submitted 13 December, 2023] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[dataset download](https://tsinghua-mars-lab.github.io/Occ3D/)]
+* [Submitted 29 September, 2023] SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving [[paper](https://arxiv.org/pdf/2306.09001.pdf)] [[Github](https://github.com/ai4ce/SSCBench)]
+* [Submitted 27 August, 2023] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_SurroundOcc_Multi-camera_3D_Occupancy_Prediction_for_Autonomous_Driving_ICCV_2023_paper.pdf)] [[Github](https://github.com/weiyithu/SurroundOcc)]
+* [Submitted 5 Jun, 2023] OpenScene: Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[Github](https://github.com/OpenDriveLab/OpenScene)] [[website](https://medium.com/@opendrivelab/introducing-openscene-the-largest-benchmark-for-occupancy-prediction-in-autonomous-driving-74cfc5bbe7b6)]
+* [Submitted 5 Jun, 2023] OccNet: Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[Github](https://github.com/OpenDriveLab/OccNet)]
+* [Submitted 7 March, 2023] Openoccupancy: A large scale benchmark for surrounding semantic occupancy perception [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_OpenOccupancy_A_Large_Scale_Benchmark_for_Surrounding_Semantic_Occupancy_Perception_ICCV_2023_paper.pdf)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
+* [Submitted 16 August, 2019] Semantickitti: A dataset for semantic scene understanding of lidar sequences [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.pdf)] [[website](http://www.semantic-kitti.org/)]
 * Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
-* SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_SurroundOcc_Multi-camera_3D_Occupancy_Prediction_for_Autonomous_Driving_ICCV_2023_paper.pdf)] [[Github](https://github.com/weiyithu/SurroundOcc)]
-* SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving [[paper](https://arxiv.org/pdf/2306.09001.pdf)] [[Github](https://github.com/ai4ce/SSCBench)]
-* OccNet: Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[Github](https://github.com/OpenDriveLab/OccNet)]
 
 ## Challenge
 
