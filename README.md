@@ -50,10 +50,10 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 #### ICCV 2023
 
-* Openoccupancy: A large scale benchmark for surrounding semantic occupancy perception [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_OpenOccupancy_A_Large_Scale_Benchmark_for_Surrounding_Semantic_Occupancy_Perception_ICCV_2023_paper.pdf)] [[code](https://github.com/JeffWang987/OpenOccupancy)]
-* SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_SurroundOcc_Multi-camera_3D_Occupancy_Prediction_for_Autonomous_Driving_ICCV_2023_paper.pdf)] [[code](https://github.com/weiyithu/SurroundOcc)]
-* OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Predictio [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_OccFormer_Dual-path_Transformer_for_Vision-based_3D_Semantic_Occupancy_Prediction_ICCV_2023_paper.pdf)] [[code](https://github.com/zhangyp15/OccFormer)]
-* Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[code](https://github.com/OpenDriveLab/OpenScene)]
+* OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_OccFormer_Dual-path_Transformer_for_Vision-based_3D_Semantic_Occupancy_Prediction_ICCV_2023_paper.pdf)] [[code](https://github.com/zhangyp15/OccFormer)]
+* [Submitted 27 August, 2023] SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_SurroundOcc_Multi-camera_3D_Occupancy_Prediction_for_Autonomous_Driving_ICCV_2023_paper.pdf)] [[code](https://github.com/weiyithu/SurroundOcc)]
+* [Submitted 5 Jun, 2023] Scene as Occupancy [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)] [[code](https://github.com/OpenDriveLab/OpenScene)]
+* [Submitted 7 March, 2023] Openoccupancy: A large scale benchmark for surrounding semantic occupancy perception [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_OpenOccupancy_A_Large_Scale_Benchmark_for_Surrounding_Semantic_Occupancy_Perception_ICCV_2023_paper.pdf)] [[code](https://github.com/JeffWang987/OpenOccupancy)]
 
 #### NIPS 2023
 
