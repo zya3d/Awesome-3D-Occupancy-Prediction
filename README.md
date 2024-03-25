@@ -57,8 +57,8 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 #### NIPS 2023
 
-* Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[dataset download](https://tsinghua-mars-lab.github.io/Occ3D/)]
-* POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9e30acdeff572463c1db9b7de59de64c-Paper-Conference.pdf)] [[code](https://github.com/vobecant/POP3D)]
+* [Submitted 17 January, 2024] POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9e30acdeff572463c1db9b7de59de64c-Paper-Conference.pdf)] [[code](https://github.com/vobecant/POP3D)]
+* [Submitted 13 December, 2023] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[dataset download](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 #### Arxiv
 
