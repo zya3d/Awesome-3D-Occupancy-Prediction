@@ -10,8 +10,8 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 * [Submitted 12 February, 2024] Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[paper](https://arxiv.org/pdf/2402.07635.pdf)]
 * [Submitted 7 December, 2023] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications [[paper](https://arxiv.org/pdf/2311.17663.pdf)] [[code](https://github.com/haomo-ai/Cam4DOcc)]
 * [Submitted 4 December, 2023] COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)]
-* [Submitted 16 June, 2023] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation [[paper](https://arxiv.org/pdf/2306.10013.pdf)] [[code](https://github.com/Robertwyq/PanoOcc)]
 * [Submitted 29 November, 2023] SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2311.12754.pdf)] [[code](https://github.com/huang-yh/SelfOcc)]
+* [Submitted 16 June, 2023] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation [[paper](https://arxiv.org/pdf/2306.10013.pdf)] [[code](https://github.com/Robertwyq/PanoOcc)]
 * [Submitted 25 May, 2023] Learning Occupancy for Monocular 3D Object Detection [[paper](https://arxiv.org/pdf/2305.15694.pdf)] [[code](https://github.com/SPengLiang/OccupancyM3D)]
 * StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation
 * Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory
