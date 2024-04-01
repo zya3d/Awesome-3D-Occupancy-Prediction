@@ -1,5 +1,5 @@
 # 3D-Occupancy-Prediction
-Our paper “Vision-based 3D occupancy prediction in autonomous driving: a review and outlook”
+Our paper “**Vision-based 3D occupancy prediction in autonomous driving: a review and outlook**”
 
 <p align='center'>
     </br>
