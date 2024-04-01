@@ -3,7 +3,7 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 <p align='center'>
     </br>
-    <img src='timeline.pdf' width='1000'>
+    <img src='timeline.png' width='1000'>
 </p>
 
 <p align='center'>
